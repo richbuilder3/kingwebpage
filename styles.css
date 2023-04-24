@@ -1,4 +1,49 @@
 body {
-background-color: green;
-color: white;
+background-color: gold;
+color: black;
 }
+
+p {
+    text-align: center;
+    }
+
+#topsection{
+    margin: 0px;
+    /* padding:15px; */
+background-color:black;
+height: 200px;
+color: gold;
+font-size: 30px;
+}
+
+#nextsection {
+background-color: white;
+height: 400px;
+width: 100%;
+color:green;
+}
+
+#april4 {
+background-color:purple;
+color: gold;
+height:150px;
+}
+
+#compass{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    color:gold;
+}
+li {
+    float: left;
+  }
+li a {
+    display: block;
+    text-align: center;
+    color:gold;
+    padding: 14px 16px;
+    text-decoration: none;
+}  
